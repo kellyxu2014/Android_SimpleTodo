@@ -7,5 +7,5 @@ Features:
 <li> Add new tasks to your todo list. </li>
 <li> Remove a task by tap-holding the task item.</li>
 <p>
-<img src="" alt="Video Walkthrough" style="max-width:100%;">
+<img src="/kellyxu2014/Android_SimpleTodo/gif_SimpleTodoList.gif" alt="Video Walkthrough" style="max-width:100%;">
 </p>
