@@ -9,3 +9,4 @@ Features:
 <p>
 <img src="/kellyxu2014/Android_SimpleTodo/gif_SimpleTodoList.gif" alt="Video Walkthrough" style="max-width:100%;">
 </p>
+<br/>
